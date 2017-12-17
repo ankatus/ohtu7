@@ -1,1 +1,1 @@
-https://github.com/ankatus/ohtu-miniprojekti/pull/17
+https://github.com/ankatus/ohtu-miniprojekti/commit/74539a026bb2f28845154da182e3538a4b4c5636
